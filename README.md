@@ -21,7 +21,7 @@ Hello! I am Sajib, a passionate developer specializing in React, HTML, CSS, Java
 
 ### [Car Doctor Client](https://github.com/Hr-Sajib/car-doctor-client)
 - A client-side application for managing car maintenance and service appointments.
-- [Live Demo](https://snapnews-ecc6b.web.app)
+- [Live Demo](https://car-doctor-f2b62.web.app/)
 - Technologies Used: React, Tailwind, Mongodb Node.js
 
 ### [Snapnews](https://github.com/programming-hero-web-course1/b9a12-client-side-Hr-Sajib)
