@@ -19,17 +19,17 @@ Hello! I am Sajib, a passionate developer specializing in React, HTML, CSS, Java
 
 ## Pinned Repositories
 
-### [Smart Ticketing](https://github.com/Hr-Sajib/Smart-Ticketing)
-- A project focused on revolutionizing ticketing systems with smart technology.
-- [Live Demo](https://your-live-link.com)
-- Technologies Used: React, Node.js, MongoDB
-
 ### [Car Doctor Client](https://github.com/Hr-Sajib/car-doctor-client)
 - A client-side application for managing car maintenance and service appointments.
-- [Live Demo](https://your-live-link.com)
-- Technologies Used: React, Redux, Node.js
+- [Live Demo](https://snapnews-ecc6b.web.app)
+- Technologies Used: React, Tailwind, Mongodb Node.js
 
-### [Chef's Table](https://github.com/Hr-Sajib/chefs-table)
-- An online platform for culinary enthusiasts to share recipes and cooking tips.
-- [Live Demo](https://your-live-link.com)
-- Technologies Used: HTML, CSS, JavaScript
+### [Snapnews](https://github.com/programming-hero-web-course1/b9a12-client-side-Hr-Sajib)
+- A news aggregator app that delivers latest news headlines.
+- [Live Demo](https://snapnews-ecc6b.web.app)
+- Technologies Used: React, Tailwind, Mongodb Node.js, Firebase
+
+### [Brain Blogs](https://github.com/Porgramming-Hero-web-course/b9a11-client-side-Hr-Sajib)
+- A blogging platform for sharing thoughts and insights.
+- [Live Demo](https://brain-blogs.web.app)
+- Technologies Used: React, Tailwind, Mongodb Node.js, Firebase
