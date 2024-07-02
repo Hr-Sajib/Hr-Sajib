@@ -24,12 +24,12 @@ Hello! I am Sajib, a passionate developer specializing in React, HTML, CSS, Java
 - [Live Demo](https://car-doctor-f2b62.web.app/)
 - Technologies Used: React, Tailwind, Mongodb Node.js
 
-### [Snapnews](https://github.com/programming-hero-web-course1/b9a12-client-side-Hr-Sajib)
+### [Snapnews](https://github.com/Hr-Sajib/Snap-News)
 - A news aggregator app that delivers latest news headlines.
 - [Live Demo](https://snapnews-ecc6b.web.app)
 - Technologies Used: React, Tailwind, Mongodb Node.js, Firebase
 
-### [Brain Blogs](https://github.com/Porgramming-Hero-web-course/b9a11-client-side-Hr-Sajib)
+### [Brain Blogs](https://github.com/Hr-Sajib/Brain-Blogs)
 - A blogging platform for sharing thoughts and insights.
 - [Live Demo](https://brain-blogs.web.app)
 - Technologies Used: React, Tailwind, Mongodb Node.js, Firebase
