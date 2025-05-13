@@ -71,8 +71,3 @@ Hi, I'm **Sajib**, a **Full Stack Web Developer**. I build dynamic, responsive w
 - An event management enterprise website which caters interactive ways of communication and management of event activities incorporating bookings, vendors, suggestions etc
 - [Live Demo](https://event-hub.surge.sh/)
 - React, Tailwind CSS, Node.js, Express, MongoDB, Firebase etc
-
-### [Brain Blogs](https://github.com/Hr-Sajib/Brain-Blogs)
-- A blogging platform for sharing thoughts and insights.
-- [Live Demo](https://brain-blogs.web.app)
-- Technologies Used: React, Tailwind, MongoDB, Node.js, Firebase
